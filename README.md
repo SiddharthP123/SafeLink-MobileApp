@@ -1,24 +1,24 @@
-# SafeLink
+# SafeLink:
 
 A Safety wristband companion app built for Imperial College London's MEng Design Engineering programme.
 
 Two paired users each wear an ESP32-C3 wristband. Pressing the wristband button sends a real-time alert to the paired user's phone with live GPS location.
 
-- **COMFORT** — short press: gentle check-in, banner notification
-- **SOS** — long press: urgent alert, local notification, SMS to emergency contacts
+- **COMFORT** — short press: gentle check-in, banner notification.
+- **SOS** — long press: urgent alert, local notification, SMS to emergency contacts.
 
-## Stack
+## Stack:
 
-- Flutter / Dart — iOS
-- Firebase Auth + Firestore (real-time alerts)
-- flutter_blue_plus (BLE scan + GATT)
-- flutter_local_notifications (lock-screen alerts)
-- flutter_map (OSM, no API key)
+- Flutter / Dart — iOS.
+- Firebase Auth + Firestore (real-time alerts).
+- flutter_blue_plus (BLE scan + GATT).
+- flutter_local_notifications (lock-screen alerts).
+- flutter_map (OSM, no API key).
 
-## App source
+## App Source:
 
 The Flutter app lives in [`safelink_flutter/`](./safelink_flutter), including full setup and deploy instructions in its own README.
 
-## Team
+## Team:
 
 Built for the Human Centred Design Engineering Module (DESE40004) by a team of 5 students.
