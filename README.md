@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="logo.jpg" width="120" alt="SafeLink logo" />
+</p>
+
 # SafeLink:
+
+https://github.com/user-attachments/assets/51b1ef82-ed8f-4352-b2b5-10ff64caef22
 
 A Safety wristband companion app built for Imperial College London's MEng Design Engineering programme.
 
