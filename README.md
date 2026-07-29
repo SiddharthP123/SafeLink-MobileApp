@@ -1,6 +1,6 @@
 # SafeLink
 
-Safety wristband companion app built for Imperial College London's Design Engineering programme (DESE40004).
+A Safety wristband companion app built for Imperial College London's MEng Design Engineering programme 
 
 Two paired users each wear an ESP32-C3 wristband. Pressing the wristband button sends a real-time alert to the paired user's phone with live GPS location.
 
@@ -21,4 +21,4 @@ The Flutter app lives in [`safelink_flutter/`](./safelink_flutter), including fu
 
 ## Team
 
-Built for Imperial College London Design Engineering (DESE40004) by a team of 5 students.
+Built for the Human Centred Design Engineering Module (DESE40004) by a team of 5 students.
