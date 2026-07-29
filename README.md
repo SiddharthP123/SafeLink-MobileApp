@@ -1,6 +1,6 @@
 # SafeLink
 
-A Safety wristband companion app built for Imperial College London's MEng Design Engineering programme 
+A Safety wristband companion app built for Imperial College London's MEng Design Engineering programme.
 
 Two paired users each wear an ESP32-C3 wristband. Pressing the wristband button sends a real-time alert to the paired user's phone with live GPS location.
 
